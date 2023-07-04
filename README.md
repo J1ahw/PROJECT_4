@@ -24,14 +24,14 @@ Cleaning data and removing columns
 For longitudinal and latitude
 MACHINE LEARNING:
 # LOADING
-*Target: Dropout/Graduate/Enrolled (0,1,2)
-*Marital Status
-*Daytime/evening student
-*Mother qualification
-*Father qualification
-*Scholarship
-*International
+* Target: Dropout/Graduate/Enrolled (0,1,2)
+* Marital Status
+* Daytime/evening student
+* Mother qualification
+* Father qualification
+* Scholarship
+* International
 # TABLEAU:
-*Loading
-*Nationality (Map)
-*As many graphs as humanly possible on all other columns
+* Loading
+* Nationality (Map)
+* As many graphs as humanly possible on all other columns
