@@ -21,7 +21,7 @@ Overall the requirements in short:
 * Etraction/Transform
 * Cleaning data and removing columns
 # API DATA COLLECTION:
-  For longitudinal and latitude
+  Get longitude and latitude data for map creation
 # MACHINE LEARNING:
   * LOADING
     * Marital Status
