@@ -24,13 +24,19 @@ Cleaning data and removing columns
 For longitudinal and latitude
 MACHINE LEARNING:
 # LOADING
-* Target: Dropout/Graduate/Enrolled (0,1,2)
 * Marital Status
+* Course
 * Daytime/evening student
+* Nacionality
 * Mother qualification
 * Father qualification
+* Mother's occupation
+* Father's occupation
+* Gender
 * Scholarship
+* Age at enrollment	
 * International
+* * Target: Dropout/Graduate/Enrolled (0,1,2)
 # TABLEAU:
 * Loading
 * Nationality (Map)
