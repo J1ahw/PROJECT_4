@@ -22,22 +22,22 @@ Etraction/Transform
 Cleaning data and removing columns
 # API DATA COLLECTION:
 For longitudinal and latitude
-MACHINE LEARNING:
-# LOADING
-* Marital Status
-* Course
-* Daytime/evening student
-* Nacionality
-* Mother qualification
-* Father qualification
-* Mother's occupation
-* Father's occupation
-* Gender
-* Scholarship
-* Age at enrollment	
-* International
-* * Target: Dropout/Graduate/Enrolled (0,1,2)
+# MACHINE LEARNING:
+  # LOADING
+    * Marital Status
+    * Course
+    * Daytime/evening student
+    * Nacionality
+    * Mother qualification
+    * Father qualification
+    * Mother's occupation
+    * Father's occupation
+    * Gender
+    * Scholarship
+    * Age at enrollment	
+    * International
+    * * Target: Dropout/Graduate/Enrolled (0,1,2)
 # TABLEAU:
-* Loading
-* Nationality (Map)
-* As many graphs as humanly possible on all other columns
+  * Loading
+  * Nationality (Map)
+  * As many graphs as humanly possible on all other columns
