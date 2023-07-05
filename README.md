@@ -36,7 +36,7 @@ Overall the requirements in short:
     * Scholarship
     * Age at enrollment	
     * International
-    * * Target: Dropout/Graduate/Enrolled (0,1,2)
+    * Target: Dropout/Graduate/Enrolled (0,1,2)
 # TABLEAU:
   * Loading
   * Nationality (Map)
