@@ -98,6 +98,13 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
     *  In our case, we ended up with 117 columns after one-hot encoding, which introduced a lot of noise.
     *  The accuracy was even lower, with a score of 0.32. 
 
+![9](images/9.JPG)
+* Dropped the 'enrolled' column as it wasn't the target variable of interest
+* Removed the column with illogical data (graduation with zero grades)
+* The correlation map to helps us to identify the most important features against our target variable, to increase our machine learning model’s accuracy.
+
+
+
 
 
 
