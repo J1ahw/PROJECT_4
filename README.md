@@ -57,6 +57,8 @@ To assess model performance and suitability for production, we tested our select
 By following this approach, we aimed to accurately predict student outcomes, understand the factors influencing graduation or dropout rates, and ultimately contribute to improving educational strategies and student success in higher education.
 
 ### Findings:
+![1](images/1.JPG)
+* Under 50% of students have graduated, and when looking at the gender differences, female students have a higher percentage of graduation to male, with significantly more male students dropping out at 45%.
 
 ### Conclusion:
 
