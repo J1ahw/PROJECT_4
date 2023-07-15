@@ -1,6 +1,6 @@
 # PROJECT_4
 
-## Project Title - To graduate or not to graduate – that is the question![image](https://github.com/J1ahw/PROJECT_4/assets/123372576/73d72457-d9b1-4b81-b847-921df2830e12)
+## Project Title - To Graduate Or Not To Graduate – That Is The Question
 
 Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 
