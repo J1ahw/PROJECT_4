@@ -36,10 +36,12 @@ The following sections will delve into the methodology employed to approach this
 The primary objective of this project is to predict whether a student will graduate or drop out based on various circumstances. Additionally, we aim to gain insights into the factors influencing student outcomes through data visualization.
 
 #### 2. Data Sourcing & ETL:
-The dataset for this project was sourced from the following link: [link]. We downloaded the CSV dataset and performed Extraction, Transformation, and Loading (ETL) processes. Using pandas and Python, we cleaned and structured the data. We also utilized an API data collection method to obtain latitude and longitude data for countries, which we later joined with the dataset for map creation. We loaded the cleaned dataset into Tableau for visualizations and Google Collab for deep machine learning and supervised learning purposes.
+The dataset for this project was sourced from the following link: 
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+We downloaded the CSV dataset and performed Extraction, Transformation, and Loading (ETL) processes. Using pandas and Python, we cleaned and structured the data. We also utilized an API data collection method to obtain latitude and longitude data for countries, which we later joined with the dataset for map creation. We loaded the cleaned dataset into Tableau for visualisations and Google Collab for deep machine learning and supervised learning purposes.
 
 #### 3. Exploratory Data Analysis:
-We conducted in-depth investigation and evaluation of the raw data. Through visualizations in Tableau, we gained a better understanding of the data, checked for missing values, assessed overall data quality, examined categorical features, and explored correlations with the 'Target' column. We also analyzed the distribution of the 'Target' column to identify the proportions of students who graduate or drop out.
+We conducted in-depth investigation and evaluation of the raw data. Through visualisations in Tableau, we gained a better understanding of the data, checked for missing values, assessed overall data quality, examined categorical features, and explored correlations with the 'Target' column. We also analysed the distribution of the 'Target' column to identify the proportions of students who graduate or drop out.
 
 #### 4. Data Preparation:
 Data preparation involved various tasks to ensure the dataset is suitable for machine learning algorithms. These tasks included train-test-split, missing value imputation, scaling, transformation, feature engineering, and extraction. By completing these steps, we ensured that the dataset was in optimal shape for subsequent machine learning processes.
