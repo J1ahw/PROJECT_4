@@ -76,6 +76,14 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 * From the data on marital status, most students are single, and when looking at tuition fees being paid, the figures are similar for both male and female, again noticeable is that female students are graduating in higher numbers. Additionally, what is worth noting is, there are only a very small number of graduates with fees not up to date.
 
 ![6](images/6.JPG)
+* Most of international students are from positive GDP growing Country
+* younger students are more likely to gradate successful. Older students are more likely to Dropout
+
+![7](images/7.JPG)  
+* Retrieve location data via API. Create map of International students’ resources. Also map applied contains continent filter and student basic information such as 'Student Amount', 'Scholarship holders' and more.  
+
+
+
 
 
 ### Conclusion:
