@@ -83,6 +83,18 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 ![7](images/7.JPG)  
 * Retrieve location data via API. Create map of International students’ resources. Also map applied contains continent filter and student basic information such as 'Student Amount', 'Scholarship holders' and more.  
 
+![8](images/8.JPG)
+* Attempt 1: Using an Automated Neural Network Optimizer (Keras-Tuner):
+    * We looked at using an automated neural network optimizer called Keras Tuner. which can implement multiple layers, activation functions and nodes.
+    * It aims mimic the complexity of the human brain by connecting data points.
+    * We used the tableaus visualisation and our instincts to determine the most important features.
+    * We got an accuracy score of 0.559, which is quite
+ 
+* Attempt 2: One-Hot Encoding the Dataset:
+    * One-hot encoding converts categorical data into binary values, allowing the algorithm to treat them as categories rather than numerical values.
+    *  However, this approach can lead to problems when the number of categories becomes too high.
+    *  In our case, we ended up with 117 columns after one-hot encoding, which introduced a lot of noise.
+    *  The accuracy was even lower, with a score of 0.32. 
 
 
 
