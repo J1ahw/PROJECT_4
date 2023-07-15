@@ -32,6 +32,26 @@ The following sections will delve into the methodology employed to approach this
 ### Approach:
 ![flow_chart](images/flow_chart.JPG)
 
+#### 1. Problem:
+The primary objective of this project is to predict whether a student will graduate or drop out based on various circumstances. Additionally, we aim to gain insights into the factors influencing student outcomes through data visualization.
+
+#### 2. Data Sourcing & ETL:
+The dataset for this project was sourced from the following link: [link]. We downloaded the CSV dataset and performed Extraction, Transformation, and Loading (ETL) processes. Using pandas and Python, we cleaned and structured the data. We also utilized an API data collection method to obtain latitude and longitude data for countries, which we later joined with the dataset for map creation. We loaded the cleaned dataset into Tableau for visualizations and Google Collab for deep machine learning and supervised learning purposes.
+
+#### 3. Exploratory Data Analysis:
+We conducted in-depth investigation and evaluation of the raw data. Through visualizations in Tableau, we gained a better understanding of the data, checked for missing values, assessed overall data quality, examined categorical features, and explored correlations with the 'Target' column. We also analyzed the distribution of the 'Target' column to identify the proportions of students who graduate or drop out.
+
+#### 4. Data Preparation:
+Data preparation involved various tasks to ensure the dataset is suitable for machine learning algorithms. These tasks included train-test-split, missing value imputation, scaling, transformation, feature engineering, and extraction. By completing these steps, we ensured that the dataset was in optimal shape for subsequent machine learning processes.
+
+#### 5. Model Training & Selection:
+Multiple models were created using PyCaret and Keras Tuner. We trained and evaluated these models, comparing their performance and selecting the most suitable model for our objective. This involved fitting multiple estimators, tuning hyperparameters, and employing techniques to improve model accuracy.
+
+#### 6. Testing & Deployment:
+To assess model performance and suitability for production, we tested our selected model on unseen data. This evaluation allowed us to determine the model's effectiveness before deploying it in a real-world setting. The final step involved finalizing the best-performing model that satisfied our project objective and could be utilized for future deployments.
+
+By following this approach, we aimed to accurately predict student outcomes, understand the factors influencing graduation or dropout rates, and ultimately contribute to improving educational strategies and student success in higher education.
+
 # Tasks:
 The Final projects pdf file covers the requirements and refer to the rubric as well to understand the complete requirements for project 4.
 Overall the requirements in short:
