@@ -103,11 +103,38 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 * Removed the column with illogical data (graduation with zero grades)
 * The correlation map to helps us to identify the most important features against our target variable, to increase our machine learning model’s accuracy.
 
+![10](images/10.JPG)
+* Generated a table with the best performing models, with the highest accuracy score at 0.82
+* Tuned the model and achieved a slight improvement to an accuracy score of 0.8228
 
+![11](images/11.JPG)
+* Trained the model using a test dataset with logical input, which produced accurate predictions
+* Tested the model with randomly generated data using the random function, resulting in a lower accuracy score of 0.43
+* Potential reasons for lower performance with random data:
+      * Lack of meaningful patterns: Random data may lack the patterns and relationships found in real data
 
+![13](images/13.JPG)
+* Achieved a significant improvement in accuracy with a score of 0.86
+* Significantly outperformed the previous PyCaret-based model
+* Evaluated the model's performance with a test dataset created using logical reasoning
+* The model accurately predicted the positive class with a probability of approximately 0.979
+* Confidence in the model's ability to make accurate predictions based on new data inputs
 
+![14](images/14.JPG)
+* Overall, the Keras-Tuner model tends to outperform the PyCaret model in terms of precision, recall (except for Class 0), and accuracy. Keras tuner model has a higher degree of accuracy for predicting whether a student will graduate.
 
+### Concluding thoughts:
 
-### Conclusion:
+#### Limitations on data
+* Data duration only covered two terms
+* The data needs more granularity-reasons for dropout (changing courses)
+* Financial columns are not included in model
+* Lack of clarity on meaning of certain columns (Displaced & curriculum columns)
 
+#### Who would benefit from this data?
+* Any educational institutions for increasing student graduation rate
+* Students themselves
+* Apply more support to students and high dropout rate courses
+  
 ### References:
+1. https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
