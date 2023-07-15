@@ -1,7 +1,6 @@
 # PROJECT_4
 
- ![image](https://github.com/J1ahw/PROJECT_4/assets/123372576/84d9c38b-4b54-4423-8202-17cf773006cc)
-
+## Project Title - To Graduate Or Not To Graduate
 Team Members -  Mohammed Hamim Hussain, Hanwen Jia, Sultana Khan
 
 # Tasks:
