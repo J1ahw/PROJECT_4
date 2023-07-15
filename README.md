@@ -1,5 +1,7 @@
 # PROJECT_4
 
+<img src="images/graduate_pic.jpg" width="1000" height="491">
+
 ## Project Title - To Graduate Or Not To Graduate
 Team Members -  Mohammed Hamim Hussain, Hanwen Jia, Sultana Khan
 
