@@ -37,7 +37,9 @@ The primary objective of this project is to predict whether a student will gradu
 
 #### 2. Data Sourcing & ETL:
 The dataset for this project was sourced from the following link: 
+
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+
 We downloaded the CSV dataset and performed Extraction, Transformation, and Loading (ETL) processes. Using pandas and Python, we cleaned and structured the data. We also utilized an API data collection method to obtain latitude and longitude data for countries, which we later joined with the dataset for map creation. We loaded the cleaned dataset into Tableau for visualisations and Google Collab for deep machine learning and supervised learning purposes.
 
 #### 3. Exploratory Data Analysis:
