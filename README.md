@@ -1,4 +1,9 @@
 # PROJECT_4
+
+## Project Title - To graduate or not to graduate – that is the question![image](https://github.com/J1ahw/PROJECT_4/assets/123372576/73d72457-d9b1-4b81-b847-921df2830e12)
+
+Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
+
 # Tasks:
 The Final projects pdf file covers the requirements and refer to the rubric as well to understand the complete requirements for project 4.
 Overall the requirements in short:
