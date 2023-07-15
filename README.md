@@ -63,6 +63,9 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 ![1](images/1.JPG)
 * Under 50% of students have graduated, and when looking at the gender differences, female students have a higher percentage of graduation to male, with significantly more male students dropping out at 45%.
 
+![2](images/2.JPG)
+* This shows the top 5 nationalities are Brazilian(38), Santomean, Cape Verdean and Spanish (all at 13-14) after most Portuguese (4314) students.
+
 ### Conclusion:
 
 ### References:
