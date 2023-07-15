@@ -66,6 +66,9 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 ![2](images/2.JPG)
 * This shows the top 5 nationalities are Brazilian(38), Santomean, Cape Verdean and Spanish (all at 13-14) after most Portuguese (4314) students.
 
+![3](images/3.JPG)
+* From the course type, the top 3 for most graduates are Nursing, Social Services and Journalism & Communication. The lowest being Biofuel Technology and Equiniculture. It appears that traditional vocational courses secure a higher degree of success for graduation than courses which are more specialised.
+
 ### Conclusion:
 
 ### References:
