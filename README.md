@@ -57,7 +57,9 @@ To assess model performance and suitability for production, we tested our select
 By following this approach, we aimed to accurately predict student outcomes, understand the factors influencing graduation or dropout rates, and ultimately contribute to improving educational strategies and student success in higher education.
 
 ### Findings:
-Upon conducting a comprehensive analysis and employing various modeling techniques, this section presents the significant findings and insights gained from our investigation. The findings shed light on the factors influencing student outcomes, the predictive power of our machine learning models, and offer valuable implications for educational strategies and interventions. By delving into the following subsections, we aim to uncover the noteworthy findings derived from our data-driven approach
+Upon conducting a comprehensive analysis and employing various modeling techniques, this section presents the significant findings and insights gained from our investigation. The findings shed light on the factors influencing student outcomes, the predictive power of our machine learning models, and offer valuable implications for educational strategies and interventions. By delving into the following subsections, we aim to uncover the noteworthy findings derived from our data-driven approach.
+
+#### Tableau
 ![1](images/1.JPG)
 * Under 50% of students have graduated, and when looking at the gender differences, female students have a higher percentage of graduation to male, with significantly more male students dropping out at 45%.
 
