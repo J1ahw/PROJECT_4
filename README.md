@@ -69,6 +69,15 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 ![3](images/3.JPG)
 * From the course type, the top 3 for most graduates are Nursing, Social Services and Journalism & Communication. The lowest being Biofuel Technology and Equiniculture. It appears that traditional vocational courses secure a higher degree of success for graduation than courses which are more specialised.
 
+![4](images/4.JPG)
+* This shows that students do graduate in higher numbers without scholarship for both male and female, however the figures are much lower for dropping out when holding a scholarship – this indicates having financial support could help with students completing their course.
+
+![5](images/5.JPG)
+* From the data on marital status, most students are single, and when looking at tuition fees being paid, the figures are similar for both male and female, again noticeable is that female students are graduating in higher numbers. Additionally, what is worth noting is, there are only a very small number of graduates with fees not up to date.
+
+![6](images/6.JPG)
+
+
 ### Conclusion:
 
 ### References:
