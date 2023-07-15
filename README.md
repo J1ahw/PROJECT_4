@@ -2,7 +2,7 @@
 
 <img src="images/graduate_pic.jpg" width="1000" height="491">
 
-## Project Title - To Graduate Or Not To Graduate
+## To Graduate Or Not To Graduate - That Is the Question
 Team Members -  Mohammed Hamim Hussain, Hanwen Jia, Sultana Khan
 
 # Tasks:
