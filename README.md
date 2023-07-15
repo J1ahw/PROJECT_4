@@ -77,7 +77,8 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 
 ![6](images/6.JPG)
 * Most of international students are from positive GDP growing Country
-* younger students are more likely to gradate successful. Older students are more likely to Dropout
+* Younger students are more likely to gradate successful.
+* Older students are more likely to Dropout
 
 ![7](images/7.JPG)  
 * Retrieve location data via API. Create map of International students’ resources. Also map applied contains continent filter and student basic information such as 'Student Amount', 'Scholarship holders' and more.  
