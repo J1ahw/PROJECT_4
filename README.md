@@ -30,7 +30,7 @@ By leveraging this dataset, the project aims to uncover insights that can enable
 The following sections will delve into the methodology employed to approach this project, including the utilisation of machine learning techniques, data preprocessing, feature engineering, and model evaluation. The findings and insights gained from this analysis hold the potential to inform educational strategies, contribute to the improvement of graduation rates, and ultimately impact the socioeconomic landscape by ensuring the success of students within higher education institutions.
 
 ### Approach:
-
+![flow_chart](images/flow_chart.JPG)
 
 # Tasks:
 The Final projects pdf file covers the requirements and refer to the rubric as well to understand the complete requirements for project 4.
