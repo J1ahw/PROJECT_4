@@ -2,7 +2,9 @@
 
 ## Project Title - To Graduate Or Not To Graduate – That Is The Question
 
-Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
+Team Members -  Mohammed Hamim Hussain, Hanwen Jia, Sultana Khan
+![image](https://github.com/J1ahw/PROJECT_4/assets/123372576/818573ce-f638-454f-8d0f-dc1c0ca7c4c4)
+
 
 # Tasks:
 The Final projects pdf file covers the requirements and refer to the rubric as well to understand the complete requirements for project 4.
