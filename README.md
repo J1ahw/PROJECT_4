@@ -83,6 +83,8 @@ Upon conducting a comprehensive analysis and employing various modeling techniqu
 ![7](images/7.JPG)  
 * Retrieve location data via API. Create map of International students’ resources. Also map applied contains continent filter and student basic information such as 'Student Amount', 'Scholarship holders' and more.  
 
+#### Machine Learning:
+
 ![8](images/8.JPG)
 * Attempt 1: Using an Automated Neural Network Optimizer (Keras-Tuner):
     * We looked at using an automated neural network optimizer called Keras Tuner. which can implement multiple layers, activation functions and nodes.
