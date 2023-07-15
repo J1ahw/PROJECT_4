@@ -59,7 +59,7 @@ By following this approach, we aimed to accurately predict student outcomes, und
 ### Findings:
 Upon conducting a comprehensive analysis and employing various modeling techniques, this section presents the significant findings and insights gained from our investigation. The findings shed light on the factors influencing student outcomes, the predictive power of our machine learning models, and offer valuable implications for educational strategies and interventions. By delving into the following subsections, we aim to uncover the noteworthy findings derived from our data-driven approach.
 
-#### Tableau
+#### Tableau:
 ![1](images/1.JPG)
 * Under 50% of students have graduated, and when looking at the gender differences, female students have a higher percentage of graduation to male, with significantly more male students dropping out at 45%.
 
