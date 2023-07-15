@@ -3,7 +3,7 @@
 <img src="images/graduate_pic.jpg" width="1000" height="491">
 
 ## To Graduate Or Not To Graduate - That Is the Question
-Team Members -  Mohammed Hamim Hussain, Hanwen Jia, Sultana Khan
+Team Members - Hamim Hussain, Hanwen Jia, Sultana Khan
 
 # Tasks:
 The Final projects pdf file covers the requirements and refer to the rubric as well to understand the complete requirements for project 4.
